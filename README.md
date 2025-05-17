@@ -162,10 +162,10 @@ If you use this project in your research or work, please cite:
 
 ```bibtex
 @software{microtuner,
-  author = {Your Name},
+  author = {Saurav Panda},
   title = {MicroTuner: Fast LLM Fine-Tuning with Modal and Unsloth},
   year = {2025},
-  url = {https://github.com/yourusername/microtuner}
+  url = {https://github.com/sauravpanda/microtuner}
 }
 ```
 
